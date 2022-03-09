@@ -4,7 +4,7 @@
   "description": "this is a website created using html,css & expressjs",
   "main": "app.js",
   "scripts": {
-    "start":"app.js",
+    "start":"./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rahul",
